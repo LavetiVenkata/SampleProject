@@ -5,6 +5,7 @@ public class Class_Two {
 	public static void main (String args[]){
 		//addming items
 		sum();
+		sub();
 		
 		
 	}
@@ -12,7 +13,7 @@ public class Class_Two {
 		System.out.println("Class Tow method is sum");
 	}
 	
-	public void sub (){
+	public static void sub (){
 		System.out.println("Class Tow method is sub");
 	}
 

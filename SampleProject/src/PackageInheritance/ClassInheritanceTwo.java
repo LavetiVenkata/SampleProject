@@ -8,12 +8,14 @@ public class ClassInheritanceTwo extends ClassInheritanceOne {
 	
 	public static void main (String args[]){
 		
-		Class_Two cOne = new Class_Two();
+		
+		
+		/*Class_Two cOne = new Class_Two();
 		cOne.openBrowser();
 		display();
 		
 		ClassOne cTwo = new ClassOne();
-		cTwo.sum(67);
+		cTwo.sum(67);*/
 	}
 	
 	

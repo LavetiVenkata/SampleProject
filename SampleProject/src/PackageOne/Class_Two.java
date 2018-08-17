@@ -6,6 +6,7 @@ public class Class_Two {
 		//addming items
 		sum();
 		sub();
+		openBrowser();
 		
 		
 	}

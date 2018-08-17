@@ -8,6 +8,7 @@ public class ClassInheritanceOne{
 		display();
 		ClassInheritanceOne aOne = new ClassInheritanceOne();
 		aOne.nonDisplay();
+		//comment
 		
 	}
 	

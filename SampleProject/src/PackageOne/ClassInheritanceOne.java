@@ -8,7 +8,7 @@ public class ClassInheritanceOne{
 		display();
 		ClassInheritanceOne aOne = new ClassInheritanceOne();
 		aOne.nonDisplay();
-		System.out.println("Hello");
+		System.out.println("Hellos");
 		//comment
 		
 	}

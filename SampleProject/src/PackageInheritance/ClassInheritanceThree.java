@@ -5,7 +5,10 @@ public class ClassInheritanceThree {
 	public void add(){
 		System.out.println("adding");
 		System.out.println("Hello");
-		System.out.println("world");
+		int a = 99;
+		int b = 90;
+		int c = a - b;
+		System.out.println(c);
 	}
 
 }

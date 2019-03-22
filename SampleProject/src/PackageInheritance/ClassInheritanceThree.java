@@ -7,7 +7,8 @@ public class ClassInheritanceThree {
 		System.out.println("Hello");
 		int a = 99;
 		int b = 90;
-		int c = a - b;
+		int c = 87;
+		int d = a - b;
 		System.out.println(c);
 	}
 

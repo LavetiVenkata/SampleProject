@@ -9,6 +9,7 @@ public class ClassInheritanceThree {
 		int c = a + b;
 		System.out.println("Testing");
 		System.out.println(c);
+		
 	}
 
 }

@@ -6,8 +6,8 @@ public class ClassInheritanceThree {
 		
 		int a = 99;
 		int b = 90;
-		int c = a - b;
-		System.out.println("Automation");
+		int c = a * b;
+		System.out.println("Selenium Automation Testing");
 		System.out.println(c);
 		
 	}

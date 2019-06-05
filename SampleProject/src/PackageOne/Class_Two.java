@@ -8,7 +8,8 @@ public class Class_Two {
 		sub();
 		openBrowser();
 		
-		System.out.println("My intial code check in");
+		String j = "Test";
+		System.out.println(j);
 		
 		
 	}

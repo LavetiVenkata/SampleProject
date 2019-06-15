@@ -15,5 +15,9 @@ public class ClassInheritanceThree {
 	public  static void sumMethod () {
 		System.out.println("Hi");
 	}
-
+	
+	public void sum ()
+	{
+		System.out.println("sum");
+	}
 }

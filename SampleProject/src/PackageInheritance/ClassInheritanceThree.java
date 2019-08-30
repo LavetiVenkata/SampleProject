@@ -20,5 +20,9 @@ public class ClassInheritanceThree {
 	public void sum ()
 	{
 		System.out.println("sum");
+		System.out.println("sum");
+		System.out.println("sum");
+		System.out.println("sum");
+		System.out.println("sum");
 	}
 }

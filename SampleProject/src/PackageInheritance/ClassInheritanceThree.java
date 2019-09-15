@@ -15,6 +15,7 @@ public class ClassInheritanceThree {
 	
 	public  static void sumMethod () {
 		System.out.println("My text");
+		System.out.println("My text - added");
 	}
 	
 	public void sum ()

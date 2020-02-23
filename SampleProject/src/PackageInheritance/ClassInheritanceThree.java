@@ -10,6 +10,7 @@ public class ClassInheritanceThree {
 		int d = a * b + c;
 		System.out.println("Selenium Automation Testing");
 		System.out.println(d);
+		System.out.println("This is my chnage");
 		
 	}
 	
